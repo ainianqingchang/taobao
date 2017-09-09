@@ -1,0 +1,1061 @@
+1504939525887	geckodriver	INFO	geckodriver 0.18.0
+1504939525896	geckodriver	INFO	Listening on 127.0.0.1:49621
+1504939527016	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504939527621	Marionette	INFO	Enabled via --marionette
+1504939528999	Marionette	INFO	Listening on port 44026
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504939529141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504939529186	Marionette	DEBUG	loaded listener.js
+1504940376027	geckodriver	INFO	geckodriver 0.18.0
+1504940376031	geckodriver	INFO	Listening on 127.0.0.1:37205
+1504940377124	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504940377700	Marionette	INFO	Enabled via --marionette
+1504940379238	Marionette	INFO	Listening on port 37593
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504940379342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504940379386	Marionette	DEBUG	loaded listener.js
+1504940379411	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504940379545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504940379545	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504940379984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504940380251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940380254	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940380501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940380548	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940380550	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504940380873	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504940381406	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504940381410	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504940381493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504940381494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504940381786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504940382824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DhOqoHo2Eg0fR7rmvp%252BMuFtsdaWv5xRwQlF90fw4eAlpqoy4yCAfcctIF0mQi6ozD6SNwrG2ARHZeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504940382863	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DhOqoHo2Eg0fR7rmvp%252BMuFtsdaWv5xRwQlF90fw4eAlpqoy4yCAfcctIF0mQi6ozD6SNwrG2ARHZeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504940383253	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+1504940831295	geckodriver	INFO	geckodriver 0.18.0
+1504940831301	geckodriver	INFO	Listening on 127.0.0.1:36097
+1504940832446	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504940833004	Marionette	INFO	Enabled via --marionette
+1504940834265	Marionette	INFO	Listening on port 39417
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504940834439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504940834494	Marionette	DEBUG	loaded listener.js
+1504940834528	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504940834665	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504940834665	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504940835156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504940835366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940835369	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940835553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940835597	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940835671	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504940835917	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504940836405	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504940836409	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504940836495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504940836495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504940836682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504940837793	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DYbxcOPQuwanVAQynmxG962wntio1wblnVItsPOHWFQY%252BU%252Fv8lU%252F2v85xhIz2Q3BFGF42WeSrgmZeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252BcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504940837897	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DYbxcOPQuwanVAQynmxG962wntio1wblnVItsPOHWFQY%252BU%252Fv8lU%252F2v85xhIz2Q3BFGF42WeSrgmZeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252BcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504940838172	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504940954148	geckodriver	INFO	geckodriver 0.18.0
+1504940954151	geckodriver	INFO	Listening on 127.0.0.1:48961
+1504940955254	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504940955820	Marionette	INFO	Enabled via --marionette
+1504940957307	Marionette	INFO	Listening on port 34756
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504940957368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504940957405	Marionette	DEBUG	loaded listener.js
+1504940957420	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504940957554	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504940957554	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504940958105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504940958488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940958491	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940958700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940958758	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940958763	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504940958960	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504940959362	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504940959363	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504940959448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504940959448	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504940959694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504940960689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DVALxpVFqWetK%252BD7LncnLsbsTvcNlulAOKTh3UpfSIVn9MmIgbyJlPcnzS%252BDcV7uZbXx9IDbI%252FCVeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F8MxyF%252FFMQ0K5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504940960796	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DVALxpVFqWetK%252BD7LncnLsbsTvcNlulAOKTh3UpfSIVn9MmIgbyJlPcnzS%252BDcV7uZbXx9IDbI%252FCVeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F8MxyF%252FFMQ0K5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504940961067	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1504940992588	geckodriver	INFO	geckodriver 0.18.0
+1504940992593	geckodriver	INFO	Listening on 127.0.0.1:36279
+1504940993718	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504940994351	Marionette	INFO	Enabled via --marionette
+1504940995836	Marionette	INFO	Listening on port 37467
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504940996044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504940996112	Marionette	DEBUG	loaded listener.js
+1504940996158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504940996316	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504940996316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504940997099	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504940997294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940997298	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504940997804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940997849	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504940997854	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504940998301	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504940998733	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504940998736	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504940998844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504940998844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504940999237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504941000361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DkTceDym%252FX5u8mJn7fwSrSSFkVpy90by2YvLNjYABMtanmViZigchY4gE2jldVHS76d4m9EC%252BxgdeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504941000559	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DkTceDym%252FX5u8mJn7fwSrSSFkVpy90by2YvLNjYABMtanmViZigchY4gE2jldVHS76d4m9EC%252BxgdeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504941000878	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+1504941089519	geckodriver	INFO	geckodriver 0.18.0
+1504941089523	geckodriver	INFO	Listening on 127.0.0.1:48560
+1504941090621	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504941091135	Marionette	INFO	Enabled via --marionette
+1504941092387	Marionette	INFO	Listening on port 39888
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504941092542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504941092605	Marionette	DEBUG	loaded listener.js
+1504941092669	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504941092803	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504941092803	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504941093206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504941093420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504941093423	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504941093618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504941093663	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504941093666	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504941093875	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504941094341	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504941094345	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504941094431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504941094432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504941094579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504941095501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DD%252FER5b4THyHpgCkDmp6wl%252F%252Bx8uBzJwP3CA6zVOBVOjMTRu18B1uXkIxJ3iryMgUynwH5SUsfOK9eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGpcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504941095615	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DD%252FER5b4THyHpgCkDmp6wl%252F%252Bx8uBzJwP3CA6zVOBVOjMTRu18B1uXkIxJ3iryMgUynwH5SUsfOK9eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGpcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504941095814	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+1504941920267	geckodriver	INFO	geckodriver 0.18.0
+1504941920270	geckodriver	INFO	Listening on 127.0.0.1:56885
+1504941921370	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504941921884	Marionette	INFO	Enabled via --marionette
+1504941923119	Marionette	INFO	Listening on port 38771
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504941923251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504941923295	Marionette	DEBUG	loaded listener.js
+1504941923319	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504941923455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504941923456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504941923897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504941924064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504941924068	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504941924304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504941924342	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504941924345	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504941924522	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504941924941	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504941924944	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504941925022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504941925022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504941925189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504941926036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DPKGntE3Ouy%252Bh6P2d59kc48FbtX6a58L4ENdhJSc4fw7ktApr34eAdVhhD%252B3NV0vojw3EHHKkERBeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504941926135	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504941926141	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DPKGntE3Ouy%252Bh6P2d59kc48FbtX6a58L4ENdhJSc4fw7ktApr34eAdVhhD%252B3NV0vojw3EHHKkERBeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504941926385	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504941949901	geckodriver	INFO	geckodriver 0.18.0
+1504941949904	geckodriver	INFO	Listening on 127.0.0.1:45968
+1504941951006	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504941951548	Marionette	INFO	Enabled via --marionette
+1504941953198	Marionette	INFO	Listening on port 36942
+1504941953251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504941953341	Marionette	DEBUG	loaded listener.js
+1504941953518	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504941953697	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504941953698	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504941954349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504941954646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504941954649	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504941954876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504941954935	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504941954939	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504941955219	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504941955569	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504941955572	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504941955721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504941955722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504941956066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504941957522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DNTx96%252FbJHk%252BuPa0iKTJ%252F6nfUliXZzoRUnlcx6qBlTvlgO2G5q5Z1IkZFp8oE%252FOI0UCPsoZ6CH8VeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F4yXy4PZpzzYcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504941957704	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DNTx96%252FbJHk%252BuPa0iKTJ%252F6nfUliXZzoRUnlcx6qBlTvlgO2G5q5Z1IkZFp8oE%252FOI0UCPsoZ6CH8VeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F4yXy4PZpzzYcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504941958027	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504941958495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941959742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941970464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941971620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941972963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941983403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941984779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941985960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941996474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941997453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504941998488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942009273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942010702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942021394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942022508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942032855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942034190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942044987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942046438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942057115	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942058411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942066449	geckodriver	INFO	geckodriver 0.18.0
+1504942066463	geckodriver	INFO	Listening on 127.0.0.1:52475
+1504942067555	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504942068141	Marionette	INFO	Enabled via --marionette
+1504942069616	Marionette	INFO	Listening on port 42393
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504942069789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504942069835	Marionette	DEBUG	loaded listener.js
+1504942069895	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504942070027	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504942070028	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504942070524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504942070744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942070746	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942070945	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942071010	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942071014	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504942071282	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504942071680	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504942071681	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504942071802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504942071803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504942072094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942072808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DlHZaDztBIoQ85JyIzb7y%252Fe%252FaiVE0sLp%252F83nAX6v7SyHuVpEixO71hB51N36bg8yHjqaHiIURNkReA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504942072825	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DlHZaDztBIoQ85JyIzb7y%252Fe%252FaiVE0sLp%252F83nAX6v7SyHuVpEixO71hB51N36bg8yHjqaHiIURNkReA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504942073128	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942074124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942075992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942086719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942088355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942090242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942101194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942102672	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942104298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942115340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942116436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942117650	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942128536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942129610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942140013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942141175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942151886	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942152928	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942163576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942164587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942175242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942176423	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942187085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942188219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942198711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942199904	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942210376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942211772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942244623	geckodriver	INFO	geckodriver 0.18.0
+1504942244626	geckodriver	INFO	Listening on 127.0.0.1:50738
+1504942245741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504942246294	Marionette	INFO	Enabled via --marionette
+1504942247634	Marionette	INFO	Listening on port 34905
+1504942247754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504942247797	Marionette	DEBUG	loaded listener.js
+1504942247842	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504942247979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504942247980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504942248437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504942248684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942248693	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942248889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942248898	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942248900	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504942249086	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504942249086	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504942249468	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504942249468	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504942249555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504942249555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504942250201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942250558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DX%252BDGWd9ClJg0xZKvUpdoZfvGGrvEV0jzJpVQ62Jg%252FB%252BeEsIxE33L4s0mkI3c3r9p%252BKL56FiG7QheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504942250588	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DX%252BDGWd9ClJg0xZKvUpdoZfvGGrvEV0jzJpVQ62Jg%252FB%252BeEsIxE33L4s0mkI3c3r9p%252BKL56FiG7QheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504942250934	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942251766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942251840	Marionette	DEBUG	Received DOM event "pagehide" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DX%252BDGWd9ClJg0xZKvUpdoZfvGGrvEV0jzJpVQ62Jg%252FB%252BeEsIxE33L4s0mkI3c3r9p%252BKL56FiG7QheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504942252031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504942252034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942252371	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942252863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942253301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942253603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942253873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942254130	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942254411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942254711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942255011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942363670	geckodriver	INFO	geckodriver 0.18.0
+1504942363674	geckodriver	INFO	Listening on 127.0.0.1:46551
+1504942364781	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504942365373	Marionette	INFO	Enabled via --marionette
+1504942366845	Marionette	INFO	Listening on port 44216
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504942367004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504942367063	Marionette	DEBUG	loaded listener.js
+1504942367106	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504942367245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504942367246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504942367724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504942367981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942367987	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942368268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942368322	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942368325	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504942368678	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504942368791	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504942369192	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504942369193	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504942369335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504942369335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504942369589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942370979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DCaqGmdqhlyRbZg%252B9lbJ0fTEZC5WmBVmNSCg4AXqxqVUytvmJ%252Bsmha1PqigVv6k4T8KYN6yfLkWheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504942371126	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DCaqGmdqhlyRbZg%252B9lbJ0fTEZC5WmBVmNSCg4AXqxqVUytvmJ%252Bsmha1PqigVv6k4T8KYN6yfLkWheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504942371467	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942371978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942668468	geckodriver	INFO	geckodriver 0.18.0
+1504942668471	geckodriver	INFO	Listening on 127.0.0.1:53347
+1504942669662	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504942670192	Marionette	INFO	Enabled via --marionette
+1504942671458	Marionette	INFO	Listening on port 44225
+1504942671566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504942671620	Marionette	DEBUG	loaded listener.js
+1504942671668	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504942671805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504942671805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504942672209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504942672426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942672428	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504942672620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942672690	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504942672721	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504942672939	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504942673052	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504942673466	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504942673469	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504942673554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504942673555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504942673702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942674614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3D27PjFS%252BBByIo7affFj1dePpA3K%252BJ%252B8unMjyM10e2WmBXWaV%252BzCvYFNMq%252FCTAJBOV2ORJFAbvjiNeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252B5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504942674766	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3D27PjFS%252BBByIo7affFj1dePpA3K%252BJ%252B8unMjyM10e2WmBXWaV%252BzCvYFNMq%252FCTAJBOV2ORJFAbvjiNeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252B5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504942674983	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504942675399	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942676520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942686807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942687969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942689000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942699337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942700414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942701462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942712270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942713418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942714515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942724834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942725943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942736781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942738048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942748355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942759128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942760126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942770932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942781637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942782994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://g.alicdn.com/tb/tsrp/1.70.1/??_29.js,_0.js,_1.js,_2.js,_1k.js,_1i.js,_1f.js,_1j.js,_1h.js,_5.js, line 1: TypeError: a is undefined
+1504942789827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://g.alicdn.com/tb/tsrp/1.70.1/??_29.js,_0.js,_1.js,_2.js,_1k.js,_1i.js,_1f.js,_1j.js,_1h.js,_5.js, line 1: TypeError: a is undefined
+1504942792414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://g.alicdn.com/tb/tsrp/1.70.1/??_29.js,_0.js,_1.js,_2.js,_1k.js,_1i.js,_1f.js,_1j.js,_1h.js,_5.js, line 1: TypeError: a is undefined
+1504942794677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://g.alicdn.com/tb/tsrp/1.70.1/??_29.js,_0.js,_1.js,_2.js,_1k.js,_1i.js,_1f.js,_1j.js,_1h.js,_5.js, line 1: TypeError: a is undefined
+1504942796838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942807624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942809037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://g.alicdn.com/tb/tsrp/1.70.1/??_29.js,_0.js,_1.js,_2.js,_1k.js,_1i.js,_1f.js,_1j.js,_1h.js,_5.js, line 1: TypeError: a is undefined
+1504942819952	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942820449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942821530	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942832243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942833562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942844275	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942845479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942855825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942856814	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942867638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942869396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942879761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942880922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942891593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942892607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942902900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942904296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942915059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942916927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942927598	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942929477	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942940207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942942090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942952758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942954639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942965302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942967185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942977833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942979725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942990380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504942992265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943002918	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943004770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943015443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943017293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943027914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943029777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943040487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943042332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943053060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943054898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943065592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943067429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943078088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943079961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943090768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943092610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943103410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943105254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943115905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943117761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943128460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943130328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943140944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943142802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943153469	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943155322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943166075	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943167915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943178667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943180531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943191198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943193113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943203817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943205670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943216446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943218287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943229041	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943230882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943241561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943243418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943254147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943256009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943266637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943268473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943279241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943281073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943291766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943293619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943304201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943306057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943316743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943318602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943329363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943331185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943341861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943343686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943354376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943356200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943366817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943368646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943379374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943381211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943391816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943393658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943404302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943406165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943416862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943418693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943428964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943430822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943441486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943443327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943454012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943455879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943466608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943468458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943479210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943481071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943491733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943493624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943504325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943506180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943516855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943518704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943529381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943531241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943541994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943543882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943554573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943556428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943567147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943569000	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943579666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943581528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943592305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943594163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943604926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943606784	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943617565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943619472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943630096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943631953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943642762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943644635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943655357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943657204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943667570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943669413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943679729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943681569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943691934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943693778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943704552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943706410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943717200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943719047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943729743	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943731604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943742308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943744150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943754854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943756707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943767439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943769330	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943780120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943781975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943792729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943794582	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943805278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943807136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943817882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943819773	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504943830511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504946789127	geckodriver	INFO	geckodriver 0.18.0
+1504946789132	geckodriver	INFO	Listening on 127.0.0.1:53567
+1504946789258	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504946789807	Marionette	INFO	Enabled via --marionette
+1504946791190	Marionette	INFO	Listening on port 43997
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504946791273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504946791323	Marionette	DEBUG	loaded listener.js
+1504946791347	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504946791486	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504946791487	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504946791991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504946792128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504946792131	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504946792463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504946792534	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504946792634	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504946792857	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504946793305	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504946793308	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504946793390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504946793390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504946793592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504946794774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3Dlu1WXg2Sylah5cN2U%252FiQJSTD8kwzmysSxFELzpOy2%252FVHGxSUpTQT3XpD4WLtrOvMJjmLPP6bwbdeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252Fzl8ZqT%252FFcTpSjNTO1wgot6t93IYh5Z7tW%252FhWIHOeduqF7DhjGqBRUb%252FlgVvwkpqnp5U9RaDFllfKipNF1LcNOWtVjV5RpCQdA%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504946795052	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3Dlu1WXg2Sylah5cN2U%252FiQJSTD8kwzmysSxFELzpOy2%252FVHGxSUpTQT3XpD4WLtrOvMJjmLPP6bwbdeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252Fzl8ZqT%252FFcTpSjNTO1wgot6t93IYh5Z7tW%252FhWIHOeduqF7DhjGqBRUb%252FlgVvwkpqnp5U9RaDFllfKipNF1LcNOWtVjV5RpCQdA%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504946795430	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504946795925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504946797912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504946808705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504946809983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 3720] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504946910847	geckodriver	INFO	geckodriver 0.18.0
+1504946910941	geckodriver	INFO	Listening on 127.0.0.1:46826
+1504946911959	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504946912511	Marionette	INFO	Enabled via --marionette
+1504946913957	Marionette	INFO	Listening on port 40016
+1504946913978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504946914016	Marionette	DEBUG	loaded listener.js
+1504946914039	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504946914182	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504946914182	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504946914666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504946914789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504946914791	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504946915149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/oss/uploads/2016/04/20/92ed2d80-06c5-11e6-9c41-9b82468daefd.html#st_type=15_18&name=smad&adgrid=732218981&clk1info=1927774245,44,IpvrjK%2Fe%2FAqz7fjqFMxAapvnARs7tmchRMH%2FkImtRJ8%3D&sbid=31414&p4p_size=160x200&pvid=8290b40b437c194059b3aae3c23a313c&pid=mm_12852562_1778064_48868196"
+1504946915162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504946915214	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504946915328	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/01/04/creation-8159WiX81SInz1af-7693504.html"
+1504946915797	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/01/04/creation-8159WiX81SInz1af-7693504.html"
+1504946915798	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/oss/uploads/2016/04/20/92ed2d80-06c5-11e6-9c41-9b82468daefd.html#st_type=15_18&name=smad&adgrid=732218981&clk1info=1927774245,44,IpvrjK%2Fe%2FAqz7fjqFMxAapvnARs7tmchRMH%2FkImtRJ8%3D&sbid=31414&p4p_size=160x200&pvid=8290b40b437c194059b3aae3c23a313c&pid=mm_12852562_1778064_48868196"
+1504946915802	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504946915973	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504946916459	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504946916461	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504946916580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504946916580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504946916580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504946916581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504946917228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504946917557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DSMU2UfR2C%252Fg78LxNuU0mNefv6gjTCJYmqVbUUBrEpTdgEkWxYztPGtZ9p1MxuUymT59Szmu7F2JeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F4yXy4PZpzzY5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504946917577	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DSMU2UfR2C%252Fg78LxNuU0mNefv6gjTCJYmqVbUUBrEpTdgEkWxYztPGtZ9p1MxuUymT59Szmu7F2JeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F4yXy4PZpzzY5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504946917914	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504946961068	geckodriver	INFO	geckodriver 0.18.0
+1504946961073	geckodriver	INFO	Listening on 127.0.0.1:58368
+1504946961216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504946961777	Marionette	INFO	Enabled via --marionette
+1504946963223	Marionette	INFO	Listening on port 38968
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504946963329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504946963361	Marionette	DEBUG	loaded listener.js
+1504946963383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504946963516	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504946963517	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504946964056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504946964237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504946964241	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504946964440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504946964484	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504946964487	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504946964722	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504946965075	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504946965078	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504946965179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504946965179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504946965715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504946966440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DIZEEDHJIhk5%252F3YL2AxxMFfIc4FmRuF0Rnoh0fKyj18qF%252BcI8qlQIncscJciG%252FyAEaEY0WnAlroxeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGpcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504946966561	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DIZEEDHJIhk5%252F3YL2AxxMFfIc4FmRuF0Rnoh0fKyj18qF%252BcI8qlQIncscJciG%252FyAEaEY0WnAlroxeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGpcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504946966816	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947000981	geckodriver	INFO	geckodriver 0.18.0
+1504947000991	geckodriver	INFO	Listening on 127.0.0.1:50672
+1504947002086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947002619	Marionette	INFO	Enabled via --marionette
+1504947004102	Marionette	INFO	Listening on port 41317
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947004198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947004231	Marionette	DEBUG	loaded listener.js
+1504947004253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947004378	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947004378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947004916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947005157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947005161	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947005372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947005412	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947005416	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947005643	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947006042	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947006043	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947006133	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947006133	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947006748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947007133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DpGC0x%252FLXcUGg%252FtlLwMPKVNQpj5vLV8c%252Ff9EMF4kVltLV8GYjnpBu0r2VCHF%252BT%252BEDY4mFN7x2%252BaleA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947007162	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DpGC0x%252FLXcUGg%252FtlLwMPKVNQpj5vLV8c%252Ff9EMF4kVltLV8GYjnpBu0r2VCHF%252BT%252BEDY4mFN7x2%252BaleA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947007481	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947065688	geckodriver	INFO	geckodriver 0.18.0
+1504947065694	geckodriver	INFO	Listening on 127.0.0.1:41651
+1504947066808	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947067438	Marionette	INFO	Enabled via --marionette
+1504947068783	Marionette	INFO	Listening on port 34558
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947069079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947069128	Marionette	DEBUG	loaded listener.js
+1504947069212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947069347	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947069347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947070054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947070224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947070228	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947070542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947070555	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947070559	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947070761	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947071093	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947071094	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947071173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947071173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947071437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947072252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3D9ezH%252BQfHoOtaFZg3K8gQxQcflE4jZk2YYe9tPmWzMNhe8iCGne6GBxNsviLgHRYGc5vG1je77LdeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGp5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947072261	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3D9ezH%252BQfHoOtaFZg3K8gQxQcflE4jZk2YYe9tPmWzMNhe8iCGne6GBxNsviLgHRYGc5vG1je77LdeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGp5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947072450	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947134970	geckodriver	INFO	geckodriver 0.18.0
+1504947134978	geckodriver	INFO	Listening on 127.0.0.1:59620
+1504947136061	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947136859	Marionette	INFO	Enabled via --marionette
+1504947138469	Marionette	INFO	Listening on port 37462
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947138768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947138813	Marionette	DEBUG	loaded listener.js
+1504947138880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947139096	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947139096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947141486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947141718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947141726	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947141914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947141953	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947141956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947142137	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947142535	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947142538	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947142627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947142627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947142833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947143839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DmVVxW%252FJmSvVWhcSwK%252B5uu2zldHeUqjRUSHaeHUx2iVozL1bJwXgn17lbYR%252B4wOoEyvXrYiGsR2ZeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947143941	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DmVVxW%252FJmSvVWhcSwK%252B5uu2zldHeUqjRUSHaeHUx2iVozL1bJwXgn17lbYR%252B4wOoEyvXrYiGsR2ZeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycGcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947144170	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947144571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947146492	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947153938	geckodriver	INFO	geckodriver 0.18.0
+1504947153942	geckodriver	INFO	Listening on 127.0.0.1:46683
+1504947154093	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947154688	Marionette	INFO	Enabled via --marionette
+1504947156057	Marionette	INFO	Listening on port 33166
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947156307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947156387	Marionette	DEBUG	loaded listener.js
+1504947156449	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947156595	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947156596	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947157048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947157316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947157320	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947157573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947157620	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947157623	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947157853	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947158320	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947158323	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947158423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947158423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947158551	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947159611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3Dd9T0lZE6rZhZhN7uXMNetyRhKB29LsfdgUVnVWd9GFYqt6inlgQtZJ%252BPZZ2rC65EbAwkExOMtQheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F8MxyF%252FFMQ0K5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947159693	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3Dd9T0lZE6rZhZhN7uXMNetyRhKB29LsfdgUVnVWd9GFYqt6inlgQtZJ%252BPZZ2rC65EbAwkExOMtQheA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F8MxyF%252FFMQ0K5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947159958	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947160386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947162277	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947177119	geckodriver	INFO	geckodriver 0.18.0
+1504947177122	geckodriver	INFO	Listening on 127.0.0.1:53795
+1504947177274	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947177843	Marionette	INFO	Enabled via --marionette
+1504947179200	Marionette	INFO	Listening on port 34032
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947179353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947179406	Marionette	DEBUG	loaded listener.js
+1504947179474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947179635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947179636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947180253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947180459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947180462	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947180729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947180767	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947180772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947180998	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947181339	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947181339	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947181412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947181412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947181672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947182373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DbqFvT3RWZjEEOwTXYsutqA19OAGmO3KrWaXQsytUpUXlKNFk8UDdKYpRCjJG0%252FyqIinuteq3Vc5eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGpcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947182393	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DbqFvT3RWZjEEOwTXYsutqA19OAGmO3KrWaXQsytUpUXlKNFk8UDdKYpRCjJG0%252FyqIinuteq3Vc5eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F7%252BjcbG3iwGpcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947182672	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947183541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947185405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4875] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504947203440	geckodriver	INFO	geckodriver 0.18.0
+1504947203443	geckodriver	INFO	Listening on 127.0.0.1:59732
+1504947203585	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947204143	Marionette	INFO	Enabled via --marionette
+1504947205451	Marionette	INFO	Listening on port 36905
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947205567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947205620	Marionette	DEBUG	loaded listener.js
+1504947205645	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947205777	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947205777	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947206160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947206501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947206506	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947206693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947206740	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947206744	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947206914	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947207280	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947207281	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947207384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947207384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947207684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947208500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DFf1k%252FZ5Clc%252FV4LSrY9BrKVIFhHsZt0CTaY9LxuearJiQnMmw5PNavNqsEqRBT7pdJ23i0l9Fq%252FBeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252Fzl8ZqT%252FFcTpgHYT4DZXRqat93IYh5Z7tW%252FhWIHOeduqF7DhjGqBRUb%252FlgVvwkpqnp5U9RaDFllfKipNF1LcNOWtVjV5RpCQdA%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947208524	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DFf1k%252FZ5Clc%252FV4LSrY9BrKVIFhHsZt0CTaY9LxuearJiQnMmw5PNavNqsEqRBT7pdJ23i0l9Fq%252FBeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252Fzl8ZqT%252FFcTpgHYT4DZXRqat93IYh5Z7tW%252FhWIHOeduqF7DhjGqBRUb%252FlgVvwkpqnp5U9RaDFllfKipNF1LcNOWtVjV5RpCQdA%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947208706	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947232126	geckodriver	INFO	geckodriver 0.18.0
+1504947232131	geckodriver	INFO	Listening on 127.0.0.1:42707
+1504947233238	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947233910	Marionette	INFO	Enabled via --marionette
+1504947235808	Marionette	INFO	Listening on port 43552
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947235868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947235930	Marionette	DEBUG	loaded listener.js
+1504947235954	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947236103	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947236103	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947237037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947237268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947237271	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947237475	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947237521	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947237528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947237790	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947238191	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947238194	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947238345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947238346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947238540	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947239930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3Dw6EIbqt20u3rRmN%252FKdx%252B4recMuq06jxuQ4PstQFysd3HKAGhxrjLhJVB%252FC9MSQcYaeD%252FirgF1t9eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252B5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947240184	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3Dw6EIbqt20u3rRmN%252FKdx%252B4recMuq06jxuQ4PstQFysd3HKAGhxrjLhJVB%252FC9MSQcYaeD%252FirgF1t9eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252B5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947240417	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947259096	geckodriver	INFO	geckodriver 0.18.0
+1504947259101	geckodriver	INFO	Listening on 127.0.0.1:53877
+1504947260221	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947260934	Marionette	INFO	Enabled via --marionette
+1504947262407	Marionette	INFO	Listening on port 44620
+1504947262552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947262602	Marionette	DEBUG	loaded listener.js
+1504947262628	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947262766	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947262767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947263270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947263558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947263562	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947263810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947263883	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947263886	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947264116	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947264488	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947264488	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947264588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947264589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947265228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947265595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DblIDuzAP9Dg2DhzjcVnMIQkb0ihNsNP8YQ%252B5VtcravvLC4cG%252F3%252BSiLnAVx%252BrkTMy6JmU1rgU5u1eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947265615	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DblIDuzAP9Dg2DhzjcVnMIQkb0ihNsNP8YQ%252B5VtcravvLC4cG%252F3%252BSiLnAVx%252BrkTMy6JmU1rgU5u1eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947265967	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947327264	geckodriver	INFO	geckodriver 0.18.0
+1504947327267	geckodriver	INFO	Listening on 127.0.0.1:38708
+1504947328428	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947328980	Marionette	INFO	Enabled via --marionette
+1504947330391	Marionette	INFO	Listening on port 42359
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947330500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947330561	Marionette	DEBUG	loaded listener.js
+1504947330589	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947330731	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947330731	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947331278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947331395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947331400	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947331618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947331661	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947331666	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947331870	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947332234	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947332236	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947332334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947332334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947332584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947333394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DerILEGiKUmpite7kTJfxb%252B%252FIVgc7EMamxYhAej8X2KsOFKV8rJF2JprhaqgxopYnhXsqZeqO9RxeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252B5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947333551	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/04/creation-2749FjT2Sm9bc4Uk-11333577.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DerILEGiKUmpite7kTJfxb%252B%252FIVgc7EMamxYhAej8X2KsOFKV8rJF2JprhaqgxopYnhXsqZeqO9RxeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4douEftsu6ZgU%252BKKMbMPRLne5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgzQjr1w9yQetBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F0YYhIyFLT0%252B5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947333943	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947369194	geckodriver	INFO	geckodriver 0.18.0
+1504947369197	geckodriver	INFO	Listening on 127.0.0.1:40272
+1504947370330	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947370960	Marionette	INFO	Enabled via --marionette
+1504947372546	Marionette	INFO	Listening on port 46157
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947372744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947372804	Marionette	DEBUG	loaded listener.js
+1504947372834	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947372971	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947372971	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947373732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947373886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947373891	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947374130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947374167	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947374170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947374485	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947374848	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947374852	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947374960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947374960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947375497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947376259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DDwXF4qMU%252Fye%252B7JBFwjk6rWO2lq56eCAahdMzk2wfIlbEPaKgLHaQzSNxeTvLSWMvZrGwcdnM%252Fk5eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F4yXy4PZpzzYcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947376328	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DDwXF4qMU%252Fye%252B7JBFwjk6rWO2lq56eCAahdMzk2wfIlbEPaKgLHaQzSNxeTvLSWMvZrGwcdnM%252Fk5eA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F4yXy4PZpzzYcZcFQvpMDKFYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947376554	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 591: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+1504947435992	Marionette	DEBUG	loaded listener.js
+1504947517024	geckodriver	INFO	geckodriver 0.18.0
+1504947517029	geckodriver	INFO	Listening on 127.0.0.1:36931
+1504947518141	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947518833	Marionette	INFO	Enabled via --marionette
+1504947520488	Marionette	INFO	Listening on port 33404
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947520674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947520735	Marionette	DEBUG	loaded listener.js
+1504947520759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947520900	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947520900	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947521565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947521670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947521673	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947521948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947522009	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947522014	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947522207	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947522591	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947522594	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947522699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947522699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947523278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947523953	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DGnb3BiKdzsFN9FC%252BbaUzaETDnpYZ9aOifXaMsXfVQ400ezmaNMmPDQjS6zO5hUw1DI0CsTer4qxeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947523981	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DGnb3BiKdzsFN9FC%252BbaUzaETDnpYZ9aOifXaMsXfVQ400ezmaNMmPDQjS6zO5hUw1DI0CsTer4qxeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947524260	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947525155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947527113	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504947532088	geckodriver	INFO	geckodriver 0.18.0
+1504947532092	geckodriver	INFO	Listening on 127.0.0.1:33272
+1504947533213	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504947533928	Marionette	INFO	Enabled via --marionette
+1504947535486	Marionette	INFO	Listening on port 33757
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504947535679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504947535725	Marionette	DEBUG	loaded listener.js
+1504947535759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504947535896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504947535896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1504947536505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.taobao.com/"
+1504947536567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947536572	Marionette	DEBUG	Received DOM event "pageshow" for "https://g.alicdn.com/alilog/aplus_cplugin/0.1.2/ls.html?_a_ig_p_url=https%3A%2F%2Fwww.taobao.com%2F"
+1504947536889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947536901	Marionette	DEBUG	Received DOM event "pageshow" for "https://phs.tanx.com/acbeacon4.html#mm_12852562_1778064_48868196"
+1504947536904	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.taobao.com/"
+1504947537110	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.taobao.com/"
+1504947537492	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.taobao.com/"
+1504947537492	Marionette	DEBUG	Received DOM event "unload" for "https://www.taobao.com/"
+1504947538222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1504947538222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504947538501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
+1504947541110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DHQuvhY7eyPagARuWsO1uKzRtY6vDmnuCRKqGh2ezo9y5n9PZbRl7r7XH02sB99MVMKiVlyoZshJeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+1504947541142	Marionette	DEBUG	Received DOM event "pageshow" for "https://a1.alicdn.com/creation/html/2017/09/06/creation-2580nbSvbC9bp0Hj-11380359.html?rd=http%3A%2F%2Fclick.mz.simba.taobao.com%2Fbrand%3Fe%3DHQuvhY7eyPagARuWsO1uKzRtY6vDmnuCRKqGh2ezo9y5n9PZbRl7r7XH02sB99MVMKiVlyoZshJeA8FOond%252FPurz%252BSrEfH3eRTxMkrnD0Wu3fqZMaeDDz95rsLT8GdTB8X3bdRDT4dqH%252F2gmSAXSmy0mFdiAO3kt5%252BdsxV3it2O6J%252F9MvZRHMlwgiuuAYHzgc3FNjsgwnvJBNEvCwEBNSFQM6cnjZUJYmzEiuSvpc9eEwTeswFZ8%252F3Ba4E6sAycG5TwE6JxIWRBYa6mON%252BTibIcPNtvb0aLNGjgWPfe7n64r7bHk3Ng7VbMmpLugt5vSrLTaOeSe5IsqhXlFtLCG3A%253D%253D%26u%3D%26k%3D347&style=112&q=%E7%BE%8E%E9%A3%9F&tianmu=0"
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1504947541512	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.taobao.com/search?q=%E7%BE%8E%E9%A3%9F&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.2&ie=utf8&initiative_id=tbindexz_20170909"
